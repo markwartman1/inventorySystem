@@ -1,6 +1,7 @@
 # Java Inventory System
 
 To view only one page of this program, here: [Inventory](https://github.com/markwartman1/inventorySystem/blob/master/src/model/Inventory.java)
+
 Application tour via [YouTube](https://youtu.be/BfDBhmaJHQ0)
 
 ## Model Classes: Inventory, Product, & Part
