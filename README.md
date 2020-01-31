@@ -1,5 +1,7 @@
 # Java Inventory System
 
+To view only one page of this program, here: [Inventory](https://github.com/markwartman1/inventorySystem/blob/master/src/model/Inventory.java)
+
 ## Model Classes: Inventory, Product, & Part
 
 ### Product & Part Classes
@@ -12,7 +14,7 @@ The [Inventory](https://github.com/markwartman1/inventorySystem/blob/master/src/
 
 #### ExceptionUtility Class
 
-The ExceptionUtility Class handles all of the Exception handeling of the program where it is programmed in a way that it can be used by multiple classes.
+The ExceptionUtility Class handles all of the Exception handeling of the program where it is programmed in a way that it is reused by multiple classes.
 
 ## View & Controller Classes
 
