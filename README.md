@@ -22,3 +22,18 @@ The ExceptionUtility Class handles all of the Exception handeling of the program
 
 Product is split into Add or Modify.  Part is also split into Add or Modify.  Other than that, the Main-Menu is the default View & Controller.
 
+## Object Oriented Programming
+
+Abstraction with Generalization & Specialization are present with the following:
+
+#### Abstraction: Generalization
+Part Class is the Abstract Class that handles the Generalization.
+
+#### Inheritance: Generalization
+Therefore: InHouse & Outsourced use Inheritance to extend the Part Class to take advantage of the Generalization aspects.
+
+#### Abstraction: Specialization
+The Specialization aspect is essentially a MachineId for the Inhouse Class and CompanyName for the Outsourced Class. 
+
+#### Polymorphism
+Polymorphism is present in the Inventory Class, where lookupPart & lookupProduct each have Overloaded Methods that handle String & Interger arguments.
