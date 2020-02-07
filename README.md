@@ -37,3 +37,6 @@ The Specialization aspect is essentially a MachineId for the Inhouse Class and C
 
 #### Polymorphism
 Polymorphism is present in the Inventory Class, where lookupPart & lookupProduct each have Overloaded Methods that handle String & Interger arguments.
+
+#### Encapsulation
+Encapsulation is present in each of the Models in the typical fashion of private fields with accessors/getters & mutators/setters to manipulate the data.
