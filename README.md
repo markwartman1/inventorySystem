@@ -8,7 +8,7 @@ Application tour via [YouTube](https://youtu.be/BfDBhmaJHQ0)
 
 ### Product & Part Classes
 
-Essentially a [Product](https://github.com/markwartman1/inventorySystem/blob/master/src/model/Product.java) is made of Part's in this program.  The Part class is Abstract; therefore, the classes InHouse & Outsourced extend Part, which is Inheritance, a pilar of Object Oriented Programming.
+Essentially a [Product](https://github.com/markwartman1/inventorySystem/blob/master/src/model/Product.java) is made of Part's in this program.  The Part class is Abstract; therefore, the classes InHouse & Outsourced extend Part, which is Inheritance, a pillar of Object Oriented Programming.
 
 ### Inventory Class
 
